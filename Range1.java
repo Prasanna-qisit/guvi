@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class Range
+class Range1
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
