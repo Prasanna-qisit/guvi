@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class NumEvenOdd
+class NumEvenOdd1
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
