@@ -7,8 +7,16 @@ class Program73
 	public static void main (String[] args) throws java.lang.Exception
 	{
 	Scanner sc=new Scanner(System.in);
-		float f=sc.nextFloat();
-		int r=(int)Math.ceil(f);
-		System.out.println(r);
+		int n=sc.nextInt();
+		int l=sc.nextInt();
+		int r=sc.nextInt();
+		if(n>l && n<r)
+		{
+			System.out.println("yes");
+		}
+		else
+		{
+			System.out.println("no");
+		}
 	}
 }
